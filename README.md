@@ -2,12 +2,12 @@
 
 ## 🧰 Tools
 
--   💫[black](https://github.com/psf/black) for code formatting.
--   ⚡[ruff](https://github.com/charliermarsh/ruff) for linting.
--   ✅[mypy](https://github.com/python/mypy) for static type checking.
--   📦[poetry](https://github.com/python-poetry/poetry) for package management.
--   🔮[direnv](https://github.com/direnv/direnv) for autoloading vritual environment.
--   🪝[pre-commit](https://github.com/pre-commit/pre-commit) for pre-commit hooks.
+-   💫 [black](https://github.com/psf/black) for code formatting.
+-   ⚡ [ruff](https://github.com/charliermarsh/ruff) for linting.
+-   ✅ [mypy](https://github.com/python/mypy) for static type checking.
+-   📦 [poetry](https://github.com/python-poetry/poetry) for package management.
+-   🔮 [direnv](https://github.com/direnv/direnv) for autoloading vritual environment.
+-   🪝 [pre-commit](https://github.com/pre-commit/pre-commit) for pre-commit hooks.
 
 ## Other
 
